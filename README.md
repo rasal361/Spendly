@@ -9,7 +9,6 @@ A beautiful, minimal expense tracker built with React + Vite. Installable as a P
 - 🏠 Home screen with monthly summary card + top categories
 - 📋 All Expenses with search & category filter, grouped by date
 - 📊 Stats with pie chart, daily activity bars & category breakdown
-- 👆 Swipe-to-delete on any expense
 - 💾 Data saved locally (localStorage — no backend needed)
 - 📱 Installable PWA — works offline, add to home screen
 - 🌙 Dark theme with deep midnight + violet palette
