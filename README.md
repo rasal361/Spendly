@@ -1,5 +1,7 @@
 # 💸 Spendly — Expense Tracker PWA
 
+🌐 **Live Demo:** https://spendly-green.vercel.app/
+
 A beautiful, minimal expense tracker built with React + Vite. Installable as a PWA on any device.
 
 ## Features
