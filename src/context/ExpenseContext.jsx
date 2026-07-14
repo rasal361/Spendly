@@ -6,8 +6,8 @@ export const CATEGORIES = {
   transport:     { label: 'Transport',     emoji: '🚌', color: 'var(--teal)',   soft: 'var(--teal-soft)',   hex: '#5ac8fa' },
   shopping:      { label: 'Shopping',      emoji: '🛍️', color: 'var(--pink)',   soft: 'var(--pink-soft)',   hex: '#ff2d55' },
   bills:         { label: 'Bills',         emoji: '📋', color: 'var(--red)',    soft: 'var(--red-soft)',    hex: '#ff3b30' },
-  health:        { label: 'Health',        emoji: '💊', color: 'var(--green)',  soft: 'var(--green-soft)',  hex: '#34c759' },
-  entertainment: { label: 'Entertainment', emoji: '🎮', color: 'var(--purple)', soft: 'var(--purple-soft)', hex: '#af52de' },
+  home:          { label: 'Home',        emoji: '🏠', color: 'var(--green)',  soft: 'var(--green-soft)',  hex: '#34c759' },
+  mess: { label: 'Mess', emoji: '🍣', color: 'var(--purple)', soft: 'var(--purple-soft)', hex: '#af52de' },
   other:         { label: 'Other',         emoji: '📦', color: 'var(--accent)', soft: 'var(--accent-soft)', hex: '#0071e3' },
 }
 
